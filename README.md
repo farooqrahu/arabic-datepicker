@@ -1,1 +1,1 @@
-# arabic-datepicker
+# Japanese-datepicker
